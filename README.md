@@ -23,7 +23,7 @@ train_doc2vec.py：训练doc2vec模型
 train_pinyin2vec.py：训练拼音编码模型
 
 train_word2vec.py：训练word2vec模型
-+ model文件夹包含训练后的词嵌入模型
++ model文件夹包含训练后的词嵌入模型（由于模型较大，没有上传）
 
 doc2vec和word2vec：用weibo_comment.csv训练出的doc2vec和word2vec模型
 
